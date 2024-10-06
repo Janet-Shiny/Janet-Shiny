@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janet Shiny A </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek-ak7&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-ak7" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Janet-Shiny&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-ak7" /> </p>  
 
 - 🎓 Computer Science student specializing in Cybersecurity
   
