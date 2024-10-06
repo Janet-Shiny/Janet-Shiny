@@ -1,4 +1,4 @@
-### <div align="center">I'm Janet Shiny, a full-time fullstack developer and I am currently available for new projects and will be graduating in 2026 🎓.</div>  
+### <div align="center">I'm Janet Shiny, a full-time fullstack developer and<br> I am currently available for new projects and will be graduating in 2026 🎓.</div>  
   
 
 - 🎓 Computer Science student specializing in Cybersecurity
